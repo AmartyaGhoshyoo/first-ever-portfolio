@@ -1,0 +1,46 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    color: rgb(95, 95, 95);
+}
+.First-color{
+    color: rgb(25, 158, 158);
+}
+.First-Image{
+    width: 50%;
+    padding-left: 5%;
+}
+.First-Image img{
+    width: 70%;
+    padding-top: 13%;
+    padding-left: 6%;
+}
+.First-Section{
+    display: flex;
+    margin-bottom: 150px;
+}
+h4{
+    color: rgb(95, 95, 95);
+}
+.Button{
+    text-decoration: none;
+    background-image: linear-gradient( rgb(13, 181, 181), rgb(215, 247, 255));
+    padding: 10px 30px;
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+}
+.Second-image{
+    width: 50%;
+    padding-left: 5%;
+}
+.Second-image img{
+    width: 83%;
+}
