@@ -44,3 +44,32 @@ h4{
 .Second-image img{
     width: 83%;
 }
+.Third-Section{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 25px rgb(5, 56, 58);
+    color: rgb(0, 104, 145);
+    padding-left: 25px;
+    border-radius: 15px;
+}
+#last-one{
+    border-left: 10px solid;
+    border-image: linear-gradient(rgb(0, 0, 67), rgb(0, 0, 0));
+    border-image-slice: 30 fill;
+}
+#last-second{
+    border: 13px solid;
+    
+    border-image: linear-gradient(rgb(0, 0, 67), rgb(102, 11, 11));
+    border-image-slice: 30;
+}
+.last-section{
+    margin-bottom: 150px;
+}
+footer p{
+    text-align: center;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    
+}
