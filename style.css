@@ -57,28 +57,32 @@ h4{
     border-left: 10px solid;
     border-image: linear-gradient(rgb(0, 0, 67), rgb(0, 0, 0));
     border-image-slice: 30 fill;
+    color: blanchedalmond;
 }
 #last-second{
-    border: 13px solid;
+    border: 0px solid;
     
-    border-image: linear-gradient(rgb(0, 0, 67), rgb(102, 11, 11));
+ border-image: linear-gradient(rgb(255, 243, 198), rgb(255, 255, 255));
     border-image-slice: 30;
-    color: rgb(242, 242, 242);
+    color: bisque;
 }
 .Last-Section{
     margin-bottom: 0px;
-    background-image: url(ok.jpg);
-    background-position: left;
+   background-image: url(lo.png);
+   background-repeat: no-repeat;
+    background-position: right;
+    background-size: 50%;
+    background-position-y: -6px;
+    background-position-x: 670px;
 }
 footer p{
     text-align: center;
     font-weight: 700;
-    color: blanchedalmond;
-    
+    color: rgb(18, 7, 119);
 }
 #last-second h3{
-    color: rgb(63, 0, 0);
+    color: rgb(0, 0, 0);
 }
 #ops{
-    color: blanchedalmond;
+    color: rgb(58, 45, 0);
 }
